@@ -14,6 +14,8 @@ c = [w[i]*p[i] for i in range(3)]
 
 p = problem(w,c,alpha,a0)
 ```
+
+
 ![](https://latex.codecogs.com/svg.image?w_i&space;=&space;e^{\alpha_i\cdot&space;v_i})
 
 ![](https://latex.codecogs.com/svg.image?c_i&space;=&space;p_i\cdot&space;w_i&space;=&space;p_i\cdot&space;e^{\alpha_i\cdot&space;v_i})
